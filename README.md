@@ -32,7 +32,7 @@ Currently learning: React Native!
     <a href="#" ><img alt="Git" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>&nbsp;&nbsp;
     <a href="#" ><img alt="Heroku" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
     <a href="#" ><img alt="Netifly" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
-    <a href="#" ><img alt="CircleCI" height="32" width="32"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcircleci.com%2Fblog%2Fsetting-up-continuous-integration-with-github%2F&psig=AOvVaw2shveYBkx1n3Dsioll6a3G&ust=1625614972370000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDS7emNzfECFQAAAAAdAAAAABAI" /></a>&nbsp;&nbsp;
+    <a href="#" ><img alt="CircleCI" height="32" width="32"  src="https://d3r49iyjzglexf.cloudfront.net/circleci-logo-stacked-fb-657e221fda1646a7e652c09c9fbfb2b0feb5d710089bb4d8e8c759d37a832694.png" /></a>&nbsp;&nbsp;
                     
   <h3>Testing:<h3/>
   <a href="#" ><img alt="Storybook" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" /></a>&nbsp;&nbsp;
