@@ -20,7 +20,7 @@ Currently learning: React Native!
     
   <h3>Libraries/ Frameworks:<h3/> 
   <a href="#" ><img alt="NodeJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="JQuery" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="JQuery" height="32" width="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="ReactJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Sass" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Rails" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>&nbsp;&nbsp;
