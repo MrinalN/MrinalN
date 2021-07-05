@@ -1,24 +1,38 @@
 <div align="center"><h1>< Adele Noronha - Full-Stack Web Developer /></h1></div>
 
-<div style="margin-bottom: 1rem" align="center"><h3> Thanks for checking out my Github 👋</h3>
+<div style="margin-bottom: 1rem" align="center"><h3> 👋 Thanks for checking out my Github </h3>
 </div>
 
 I'm a Full Stack Developer with a background in professional theatre. Web development has been a rewarding way to pivot my love for creative challenges, collaboration, detailed aesthetics and fantastic storytelling using thoughtful UX. I am eager to sharpen my code craft in collaboration with industry teams.
 
-- Currently collaborating on open source projects
+- Collaborating on open source projects
 - Building small apps to practice
-- Keeping sharp by staying on top of FOCAL fundamentals
+- Keeping sharp by staying on top of JS FOCAL fundamentals
+
+Currently learning: React Native!
 
 <div align="center">
-  <h3>Languages & Tools:<h3/>
-  <a href="#" ><img alt="Javascript" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="ReactJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt=" Ruby" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Rails" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="NodeJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Typescript" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
+  <h3>Languages:<h3/>
+  <a href="#" ><img alt="Javascript" height="32" width="32"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt=" Ruby" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="CSS" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="CSS" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>&nbsp;&nbsp;
+    
+  <h3>Libraries/ Frameworks:<h3/> 
+  <a href="#" ><img alt="NodeJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="JQuery" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="ReactJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="Sass" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="Rails" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="Typescript" height="32" width="32"            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="Express" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></a>&nbsp;&nbsp;
+    
+  <h3>Databases/Deployment/Integration:<h3/>  
+  <a href="#" ><img alt="PostgreSQL" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
+    <a href="#" ><img alt="Git" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>&nbsp;&nbsp;
+    <a href="#" ><img alt="Heroku" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
+    <a href="#" ><img alt="Netifly" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
+    <a href="#" ><img alt="CircleCI" height="32" width="32"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcircleci.com%2Fblog%2Fsetting-up-continuous-integration-with-github%2F&psig=AOvVaw2shveYBkx1n3Dsioll6a3G&ust=1625614972370000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDS7emNzfECFQAAAAAdAAAAABAI" /></a>&nbsp;&nbsp;
+                    
+  <h3>Testing:<h3/>
   <a href="#" ><img alt="Storybook" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="PostgreSQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Phaser" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="jQuery" height="32" width="32" 
