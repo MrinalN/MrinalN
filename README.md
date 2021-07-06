@@ -8,10 +8,11 @@ I'm a Full Stack Developer with a background in professional theatre. Web develo
 <div style="margin: 1rem;">
 <ul> ✧ Currently collaborating on open source projects </ul>
 <ul> ✧ Building small apps to practice </ul>
-<ul> ✧ Keeping sharp by staying on top of JS FOCAL fundamentals </ul>
+<ul> ✧ Daily katas to keep sharp on fundamentals </ul>
+<ul> ✧ Latest learning: React Native! </ul>
 </div>
 
-Latest learning: React Native!
+
 
 <div align="center">
   <h3>Languages:<h3/>
