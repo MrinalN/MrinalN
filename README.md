@@ -1,15 +1,15 @@
-<div align="center"><h1>< Adele Noronha - Full-Stack Web Developer /></h1></div>
+<div align="center"><h1>Adele Noronha - Full-Stack Web Developer</h1></div>
 
 <div style="margin-bottom: 1rem" align="center"><h3> 👋 Thanks for checking out my Github 👩🏽‍💻 </h3>
 </div>
 
 I'm a Full Stack Developer with a background in professional theatre. Web development has been a rewarding way to pivot my love for creative challenges, collaboration, detailed aesthetics and fantastic storytelling using thoughtful UX. I am eager to sharpen my code craft in collaboration with industry teams.
 
-- Collaborating on open source projects
-- Building small apps to practice
-- Keeping sharp by staying on top of JS FOCAL fundamentals
+✧ Currently collaborating on open source projects
+✧ Building small apps to practice
+✧ Keeping sharp by staying on top of JS FOCAL fundamentals
 
-Currently learning: React Native!
+Latest learning: React Native!
 
 <div align="center">
   <h3>Languages:<h3/>
