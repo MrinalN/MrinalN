@@ -20,7 +20,7 @@ Currently learning: React Native!
     
   <h3>Libraries/ Frameworks:<h3/> 
   <a href="#" ><img alt="NodeJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="JQuery" height="32" width="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="JQuery" height="40" width="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="ReactJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Sass" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Rails" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>&nbsp;&nbsp;
@@ -38,7 +38,7 @@ Currently learning: React Native!
   <a href="#" ><img alt="Storybook" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Mocha" height="32" width="32" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Chai" height="32" width="32" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Jest" height="45" width="45" src="https://miro.medium.com/max/796/1*adYdrfOLy0T5oW02kTvsqg.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="Jest" height="45" width="50" src="https://miro.medium.com/max/796/1*adYdrfOLy0T5oW02kTvsqg.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Cypress" height="32" width="50" src="https://nx.dev/documentation/latest/shared/cypress-logo.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="React Testing" height="40" width="50" src="https://static.hashedin.com/wp-content/uploads/2020/05/React-testing-library.png" />            </a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Rspec" height="32" width="50" src="https://www.plutora.com/wp-content/uploads/2019/01/rspec.jpg" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="React Testing" height="50" width="55" src="https://static.hashedin.com/wp-content/uploads/2020/05/React-testing-library.png" />            </a>&nbsp;&nbsp;
+  <a href="#" ><img alt="Rspec" height="45" width="50" src="https://www.plutora.com/wp-content/uploads/2019/01/rspec.jpg" /></a>&nbsp;&nbsp;
