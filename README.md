@@ -5,9 +5,9 @@
 
 I'm a Full Stack Developer with a background in professional theatre. Web development has been a rewarding way to pivot my love for creative challenges, collaboration, detailed aesthetics and fantastic storytelling using thoughtful UX. I am eager to sharpen my code craft in collaboration with industry teams.
 
-<li> ✧ Currently collaborating on open source projects </li>
-<li> ✧ Building small apps to practice </li>
-<li> ✧ Keeping sharp by staying on top of JS FOCAL fundamentals </li>
+<ul> ✧ Currently collaborating on open source projects </ul>
+<ul> ✧ Building small apps to practice </ul>
+<ul> ✧ Keeping sharp by staying on top of JS FOCAL fundamentals </ul>
 
 Latest learning: React Native!
 
