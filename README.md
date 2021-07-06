@@ -2,7 +2,7 @@
   <h1>-: ✧ :-  Adele Noronha  -: ✧ :-</h1>
 </div>
 
-<div style="margin-bottom: 1rem; border-style:dashed" align="center"><h3> 👋 - Thanks for checking out my Github - 👩🏽‍💻 </h3>
+<div style="margin-bottom: 1rem; border-style:dashed" align="center"><h3>👋 Thanks for checking out my Github 👩🏽‍💻 </h3>
 </div>
 
 I'm a Full Stack Developer with a background in professional theatre. Web development has been a rewarding way to pivot my love for creative challenges, collaboration, detailed aesthetics and fantastic storytelling using thoughtful UX. I am eager to sharpen my code craft in collaboration with industry teams.
