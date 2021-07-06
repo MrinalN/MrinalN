@@ -1,6 +1,5 @@
 <div align="center">
   <h1>-: ✧ :-  Adele Noronha  -: ✧ :-</h1>
-  <h2> Full-Stack Web Developer <h2>
 </div>
 
 <div style="margin-bottom: 1rem; border-style:dashed" align="center"><h3> 👋  Thanks for checking out my Github 👩🏽‍💻 </h3>
