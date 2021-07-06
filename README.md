@@ -40,5 +40,5 @@ Currently learning: React Native!
   <a href="#" ><img alt="Chai" height="32" width="32" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Jest" height="45" width="45" src="https://miro.medium.com/max/796/1*adYdrfOLy0T5oW02kTvsqg.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Cypress" height="32" width="50" src="https://nx.dev/documentation/latest/shared/cypress-logo.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="React Testing" height="32" width="32" src="https://static.hashedin.com/wp-content/uploads/2020/05/React-testing-library.png" />            </a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Rspec" height="32" width="32" src="https://www.plutora.com/wp-content/uploads/2019/01/rspec.jpg" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="React Testing" height="40" width="50" src="https://static.hashedin.com/wp-content/uploads/2020/05/React-testing-library.png" />            </a>&nbsp;&nbsp;
+  <a href="#" ><img alt="Rspec" height="32" width="50" src="https://www.plutora.com/wp-content/uploads/2019/01/rspec.jpg" /></a>&nbsp;&nbsp;
