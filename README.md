@@ -22,7 +22,6 @@ A Full-Stack Developer from a non-traditional background. I hold a diploma in We
   <a href="#" ><img alt=" Ruby" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="CSS" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="HTML" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="TypeScript" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
     
   <h3>Libraries/ Frameworks:<h3/> 
   <a href="#" ><img alt="NodeJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
