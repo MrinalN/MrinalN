@@ -5,12 +5,12 @@
 <div style="margin-bottom: 1rem; border-style:dashed" align="center"><h3>🌱 Thanks for checking out my Github 👩🏽‍💻 </h3>
 </div>
 
-I'm a Full Stack Developer with a background in professional theatre. Web development has been a rewarding way to pivot my love for creative challenges, collaboration, detailed aesthetics and fantastic storytelling using thoughtful UX. I am eager to sharpen my code craft in collaboration with industry teams.
+A Full-Stack Developer from a non-traditional background. I hold a diploma in Web Development, extensive experience in creative collaboration, teamwork and communication. What I love the creation process as a developer - watching each piece come to life and then fit together to make a whole. I aspire to creating fluid, clear, intuitive code; the best apps or websites are the ones you don't remember!
 
 <div style="margin: 1rem;">
-<ul> ✧ Currently collaborating on open source projects </ul>
+<ul> ✧ Currently collaborating on <a href=”https://github.com/MVP-Marketplace”>Make it MVP</a> </ul>
 <ul> ✧ Building small apps to practice </ul>
-<ul> ✧ Daily katas to keep sharp on fundamentals </ul>
+<ul> ✧ Regular katas to keep sharp on fundamentals </ul>
 <ul> ✧ Latest learning: React Native! </ul>
 </div>
 
@@ -22,6 +22,7 @@ I'm a Full Stack Developer with a background in professional theatre. Web develo
   <a href="#" ><img alt=" Ruby" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="CSS" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="HTML" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="TypeScript" height="32" width="32"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
     
   <h3>Libraries/ Frameworks:<h3/> 
   <a href="#" ><img alt="NodeJS" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
